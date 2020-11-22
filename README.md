@@ -1,7 +1,5 @@
 # Unfiltered Websockets g8 template
 
-[![Build Status](https://travis-ci.com/unfiltered/unfiltered-websockets.g8.svg?branch=master)](https://travis-ci.com/unfiltered/unfiltered-websockets.g8)
-
 A simple [g8][g8] template demoing [unfiltered][uf] [websockets][ws]
 
 ## template properties
