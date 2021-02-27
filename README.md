@@ -18,5 +18,5 @@ A simple [g8][g8] template demoing [unfiltered][uf] [websockets][ws]
 2010-2012 Doug Tangren (softprops)
 
 [g8]: https://github.com/foundweekends/giter8#readme
-[uf]: http://unfiltered.ws
+[uf]: https://unfiltered.ws
 [ws]: https://github.com/unfiltered/Unfiltered/tree/96f61ac3f6c/netty-websockets/#readme
